@@ -4,7 +4,7 @@ To compile, you need the Deus Ex public headers, included in the Deus
 Ex SDK. It also requires certain modifications to those headers, most
 notably to the FString and FName classes, which I'm not permitted to
 dirstibute. You'll have to deduce what these modifications were and
-redo them yourself, I'm afraid.
+redo them yourself, I'm afraid. (The code won't compile otherwise)
 
 It most likely compiles only with VC++6.
 
