@@ -1,0 +1,4 @@
+Call UnrealScript from Lua, use Lua scripts inside Deus Ex.
+
+To compile, you need the Deus Ex public headers, included in the Deus
+Ex SDK. It most likely compiles only with VC++6.
